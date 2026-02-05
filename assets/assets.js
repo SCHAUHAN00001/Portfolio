@@ -202,7 +202,7 @@ export const infoList = [
     icon: assets.project_icon,
     iconDark: assets.project_icon_dark,
     title: 'Projects',
-    description: 'Built more than 8+ projects',
+    description: 'Delivered 8+ real-world software projects',
   },
 ];
 
