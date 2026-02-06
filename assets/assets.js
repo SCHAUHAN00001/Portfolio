@@ -158,6 +158,12 @@ export const serviceData = [
 
 // === YOUR EXISTING WORK SHOWCASE DATA ===
 export const workData = [
+    {
+    title: 'FitTracker - Fitness Tracker App',
+    description: 'Full Stack using Reactjs',
+    bgImage: '/work-5.png',
+    link: 'https://fitness-tracker-client-chi.vercel.app',
+  },
   {
     title: 'Hunger – Food Delivery App',
     description: 'MERN Stack',
